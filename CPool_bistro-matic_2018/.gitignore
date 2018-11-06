@@ -1,0 +1,11 @@
+a.out
+unit_test
+vgcore.*
+*~
+*.gcda
+*.gcno
+*.o
+lib/libmy.a
+include/my.h
+lib/my/libmy.a
+calc
